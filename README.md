@@ -5,4 +5,6 @@
 #1. Two Sum
 ([problem](https://leetcode.com/problems/two-sum/) / [solution](/first-100/1.js))\
 #217. Contains Duplicate
-([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))
+([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))\
+#389. Find the Difference
+([problem](https://leetcode.com/problems/find-the-difference/) / [solution](/first-100/389.js))
