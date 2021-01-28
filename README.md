@@ -7,4 +7,6 @@
 #217. Contains Duplicate
 ([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))\
 #389. Find the Difference
-([problem](https://leetcode.com/problems/find-the-difference/) / [solution](/first-100/389.js))
+([problem](https://leetcode.com/problems/find-the-difference/) / [solution](/first-100/389.js))\
+#169. Majority Element
+([problem](https://leetcode.com/problems/majority-element/) / [solution](/first-100/169.js))
