@@ -11,4 +11,6 @@
 #169. Majority Element
 ([problem](https://leetcode.com/problems/majority-element/) / [solution](/first-100/169.js))\
 #217. Contains Duplicate
-([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))
+([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))\
+#387. First Unique Character in a String
+([problem](https://leetcode.com/problems/first-unique-character-in-a-string/) / [solution](/first-100/387.js))
