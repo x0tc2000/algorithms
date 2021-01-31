@@ -12,5 +12,7 @@
 ([problem](https://leetcode.com/problems/majority-element/) / [solution](/first-100/169.js))\
 #217. Contains Duplicate
 ([problem](https://leetcode.com/problems/contains-duplicate/) / [solution](/first-100/217.js))\
+#13. Roman to Integer
+([problem](https://leetcode.com/problems/roman-to-integer/) / [solution](/first-100/13.js))\
 #387. First Unique Character in a String
 ([problem](https://leetcode.com/problems/first-unique-character-in-a-string/) / [solution](/first-100/387.js))
